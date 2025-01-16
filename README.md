@@ -69,16 +69,12 @@ Stop Time	2025-01-13 07:22:06
 | SecurityEvent            | 5375
 | Syslog                   | 534
 | SecurityAlert            | 0
-| SecurityIncident         | 46
-| AzureNetworkAnalytics_CL | 68
+| SecurityIncident         | 0
+| AzureNetworkAnalytics_CL | 0
 
 
 
-Results
 
-
-
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/04038906-a05d-4667-b2b5-c68cf041e98d" />
 
 
 ## Conclusion
